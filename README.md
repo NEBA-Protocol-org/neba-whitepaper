@@ -10,11 +10,11 @@ NEBA introduces the first LLM-agnostic reward mechanism, using advanced artifici
 
 ### Key Features
 
-- 🧠 **LLM-Agnostic Architecture** - Pluggable AI providers (Claude, GPT-4, Llama, decentralized models)
-- ⚡ **Solana-Based Infrastructure** - High-performance blockchain with sub-second finality
-- 🔒 **Economic Circuit Breakers** - Multi-layer security preventing AI-driven exploits
-- 🔐 **Privacy-Preserving** - Anonymized behavioral analysis with no PII collection
-- 🌐 **Multi-Chain Ready** - Cross-chain expansion planned for 2027
+-  **LLM-Agnostic Architecture** - Pluggable AI providers (Claude, GPT-4, Llama, decentralized models)
+-  **Solana-Based Infrastructure** - High-performance blockchain with sub-second finality
+-  **Economic Circuit Breakers** - Multi-layer security preventing AI-driven exploits
+-  **Privacy-Preserving** - Anonymized behavioral analysis with no PII collection
+-  **Multi-Chain Ready** - Cross-chain expansion planned for 2027
 
 ### Read the Whitepaper
 
